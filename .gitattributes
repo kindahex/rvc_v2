@@ -34,3 +34,4 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 *.zst filter=lfs diff=lfs merge=lfs -text
 *tfevents* filter=lfs diff=lfs merge=lfs -text
 stftpitchshift filter=lfs diff=lfs merge=lfs -text
+audios/Love[[:space:]]Live![[:space:]]Superstar!![[:space:]]-[[:space:]]Shibuya[[:space:]]Kanon「Watashi[[:space:]]no[[:space:]]Symphony」\[SHORT+LYRICS\]_vocals.wav filter=lfs diff=lfs merge=lfs -text
