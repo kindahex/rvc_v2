@@ -34,3 +34,4 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 *.zst filter=lfs diff=lfs merge=lfs -text
 *tfevents* filter=lfs diff=lfs merge=lfs -text
 stftpitchshift filter=lfs diff=lfs merge=lfs -text
+audios/Mp3juice.blog_Underyass_OST__068_-_Anaconda's_Glamour___Death_by_Glamour_(Nicki_Minaj_Remix)\[1\][[:space:]](Vocals).mp3 filter=lfs diff=lfs merge=lfs -text
