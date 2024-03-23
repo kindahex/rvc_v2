@@ -34,3 +34,4 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 *.zst filter=lfs diff=lfs merge=lfs -text
 *tfevents* filter=lfs diff=lfs merge=lfs -text
 stftpitchshift filter=lfs diff=lfs merge=lfs -text
+audios/y2mate.com[[:space:]]-[[:space:]]蜜月アンドゥトロワ[[:space:]][[:space:]][[:space:]][[:space:]]COVER[[:space:]]by[[:space:]]くろくも[[:space:]]kurokumo_320kbps[[:space:]]\[vocals\].mp3 filter=lfs diff=lfs merge=lfs -text
