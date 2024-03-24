@@ -34,3 +34,4 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 *.zst filter=lfs diff=lfs merge=lfs -text
 *tfevents* filter=lfs diff=lfs merge=lfs -text
 stftpitchshift filter=lfs diff=lfs merge=lfs -text
+audios/1_X2Download.app[[:space:]]-[[:space:]]Burbujas[[:space:]]De[[:space:]]Amor[[:space:]](320[[:space:]]kbps)_(Vocals).wav filter=lfs diff=lfs merge=lfs -text
