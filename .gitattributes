@@ -34,3 +34,4 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 *.zst filter=lfs diff=lfs merge=lfs -text
 *tfevents* filter=lfs diff=lfs merge=lfs -text
 stftpitchshift filter=lfs diff=lfs merge=lfs -text
+audios/Bebe[[:space:]]Rexha[[:space:]]-[[:space:]]Meant[[:space:]]To[[:space:]]Be[[:space:]](Acoustic)[[:space:]]\[vocals\].wav filter=lfs diff=lfs merge=lfs -text
