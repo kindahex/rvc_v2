@@ -34,3 +34,5 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 *.zst filter=lfs diff=lfs merge=lfs -text
 *tfevents* filter=lfs diff=lfs merge=lfs -text
 stftpitchshift filter=lfs diff=lfs merge=lfs -text
+audios/Even[[:space:]]MORE[[:space:]]SPAMTON[[:space:]]UNBITCRUSHED[[:space:]]VOICE[[:space:]]LINES.mp3 filter=lfs diff=lfs merge=lfs -text
+audios/Snowdin[[:space:]]Town[[:space:]][[:space:]]ORIGINAL[[:space:]]UNDERTALE[[:space:]]LYRICS[[:space:]]\[vocals\]-vocals[[:space:]](2).mp3 filter=lfs diff=lfs merge=lfs -text
