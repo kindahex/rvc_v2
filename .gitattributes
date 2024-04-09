@@ -34,3 +34,4 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 *.zst filter=lfs diff=lfs merge=lfs -text
 *tfevents* filter=lfs diff=lfs merge=lfs -text
 stftpitchshift filter=lfs diff=lfs merge=lfs -text
+audios/utomp3.com[[:space:]]-[[:space:]]Corina[[:space:]]Smith[[:space:]][[:space:]]13[[:space:]]cuídate[[:space:]]Visualizer[[:space:]][[:space:]]triste[[:space:]]pero[[:space:]]siempre[[:space:]]mami[[:space:]]acústico.mp3 filter=lfs diff=lfs merge=lfs -text
