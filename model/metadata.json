@@ -1,0 +1,145 @@
+{
+  "title": "Azteca (Romanian Trapper) RVC V2, 250 Epochs",
+  "author": {
+    "name": "serbanovici",
+    "discordUserId": "917487993646886972"
+  },
+  "md5": "5e6b1001f1f9ed865f54e542a5fe9bae",
+  "uploadedAt": "2023-08-20T12:06:59.294Z",
+  "weightsLink": "https://www.weights.gg/models/clm72lgtn04aqcctceyjs6dbp",
+  "id": "clm72lgtn04aqcctceyjs6dbp",
+  "type": "v2",
+  "tags": [
+    "RVC v2"
+  ],
+  "description": "Link (HuggingFace): https://huggingface.co/bulibasha/aztecaocult/resolve/main/Azteca%20AI.zip\nMade by LeakMaster\nPlease credit if you use!",
+  "samples": [],
+  "files": [
+    {
+      "name": "model.index",
+      "size": 69762139,
+      "md5": "81398ea1dbec53f2678e110b3c95bb0e"
+    },
+    {
+      "name": "model.pth",
+      "size": 55224656,
+      "md5": "5e6b1001f1f9ed865f54e542a5fe9bae"
+    }
+  ],
+  "torchMetadata": {
+    "config": {
+      "spec_channels": 1025,
+      "segment_size": 32,
+      "inter_channels": 192,
+      "hidden_channels": 192,
+      "filter_channels": 768,
+      "n_heads": 2,
+      "n_layers": 6,
+      "kernel_size": 3,
+      "p_dropout": 0,
+      "resblock": "1",
+      "resblock_kernel_sizes": [
+        3,
+        7,
+        11
+      ],
+      "resblock_dilation_sizes": [
+        [
+          1,
+          3,
+          5
+        ],
+        [
+          1,
+          3,
+          5
+        ],
+        [
+          1,
+          3,
+          5
+        ]
+      ],
+      "upsample_rates": [
+        10,
+        10,
+        2,
+        2
+      ],
+      "upsample_initial_channel": 512,
+      "upsample_kernel_sizes": [
+        16,
+        16,
+        4,
+        4
+      ],
+      "emb_channels": null,
+      "spk_embed_dim": 109,
+      "gin_channels": 256,
+      "sr": 40000
+    },
+    "f0": 1,
+    "version": "v2",
+    "extra_info": {
+      "config": [
+        1025,
+        32,
+        192,
+        192,
+        768,
+        2,
+        6,
+        3,
+        0,
+        "1",
+        [
+          3,
+          7,
+          11
+        ],
+        [
+          [
+            1,
+            3,
+            5
+          ],
+          [
+            1,
+            3,
+            5
+          ],
+          [
+            1,
+            3,
+            5
+          ]
+        ],
+        [
+          10,
+          10,
+          2,
+          2
+        ],
+        512,
+        [
+          16,
+          16,
+          4,
+          4
+        ],
+        109,
+        256,
+        40000
+      ],
+      "info": "250epoch",
+      "sr": "40k",
+      "f0": 1,
+      "version": "v2"
+    }
+  },
+  "url": "https://huggingface.co/bulibasha/aztecaocult/resolve/main/Azteca%20AI.zip",
+  "originalFileList": [
+    "added_IVF566_Flat_nprobe_1_mynewmodel_v2.index",
+    "azteca.pth"
+  ]
+}
