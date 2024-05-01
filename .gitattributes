@@ -34,3 +34,5 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 *.zst filter=lfs diff=lfs merge=lfs -text
 *tfevents* filter=lfs diff=lfs merge=lfs -text
 stftpitchshift filter=lfs diff=lfs merge=lfs -text
+Fixes/instrumental.wav filter=lfs diff=lfs merge=lfs -text
+Fixes/utomp3.com-En-la-playa-guaracha-zapateo-aleteo-vocals-G-minor-130bpm-443hz.wav filter=lfs diff=lfs merge=lfs -text
