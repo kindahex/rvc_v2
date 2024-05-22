@@ -34,3 +34,4 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 *.zst filter=lfs diff=lfs merge=lfs -text
 *tfevents* filter=lfs diff=lfs merge=lfs -text
 stftpitchshift filter=lfs diff=lfs merge=lfs -text
+audios/Semicenk[[:space:]][[:space:]]Rast[[:space:]]-[[:space:]]Canın[[:space:]]Sağ[[:space:]]Olsun[[:space:]](SözleriLyrics)[[:space:]]Şarkı[[:space:]]Sözleri[[:space:]]____[[:space:]](Vocals)[[:space:]](Demucs[[:space:]]V4).mp3 filter=lfs diff=lfs merge=lfs -text
