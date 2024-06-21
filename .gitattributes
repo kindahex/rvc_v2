@@ -34,3 +34,4 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 *.zst filter=lfs diff=lfs merge=lfs -text
 *tfevents* filter=lfs diff=lfs merge=lfs -text
 stftpitchshift filter=lfs diff=lfs merge=lfs -text
+audios/_tmp_gradio_ac5b75c09f47ccfcce39ab81e66f82e1323e8bc6_audio.wav filter=lfs diff=lfs merge=lfs -text
