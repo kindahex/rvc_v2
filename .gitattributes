@@ -34,3 +34,4 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 *.zst filter=lfs diff=lfs merge=lfs -text
 *tfevents* filter=lfs diff=lfs merge=lfs -text
 stftpitchshift filter=lfs diff=lfs merge=lfs -text
+audios/1_1_1_1_Five[[:space:]]Nights[[:space:]]at[[:space:]]Freddy's[[:space:]]1[[:space:]]Song[[:space:]](FNAF[[:space:]]Remix-Cover)[[:space:]]_[[:space:]]2022[[:space:]]Version_(Vocals)_(No[[:space:]]Reverb)_(No[[:space:]]Noise)_(Vocals).wav filter=lfs diff=lfs merge=lfs -text
