@@ -34,3 +34,4 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 *.zst filter=lfs diff=lfs merge=lfs -text
 *tfevents* filter=lfs diff=lfs merge=lfs -text
 stftpitchshift filter=lfs diff=lfs merge=lfs -text
+audios/ElevenLabs_2024-06-07T16_05_42_Tom_-_trailer_narrator_gen_s50_sb75_se0_b_m2.mp3 filter=lfs diff=lfs merge=lfs -text
