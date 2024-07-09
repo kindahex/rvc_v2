@@ -34,3 +34,4 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 *.zst filter=lfs diff=lfs merge=lfs -text
 *tfevents* filter=lfs diff=lfs merge=lfs -text
 stftpitchshift filter=lfs diff=lfs merge=lfs -text
+audios/Passing[[:space:]]Through[[:space:]]Cant[[:space:]]the[[:space:]]Future[[:space:]]Just[[:space:]]Wait[[:space:]]\[vocals\].wav filter=lfs diff=lfs merge=lfs -text
