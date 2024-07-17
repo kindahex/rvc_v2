@@ -34,3 +34,7 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 *.zst filter=lfs diff=lfs merge=lfs -text
 *tfevents* filter=lfs diff=lfs merge=lfs -text
 stftpitchshift filter=lfs diff=lfs merge=lfs -text
+audios/1_Abhi[[:space:]]Abhi[[:space:]]-[[:space:]]Jism[[:space:]]2[[:space:]]-[[:space:]]Dmajor[[:space:]]-[[:space:]]72_(Vocals).wav filter=lfs diff=lfs merge=lfs -text
+audios/1_Mere[[:space:]]Bina[[:space:]]-[[:space:]]Dmajor[[:space:]]-[[:space:]]80_(Vocals).wav filter=lfs diff=lfs merge=lfs -text
+audios/1_Pyaar[[:space:]]Ke[[:space:]]Pal[[:space:]]-[[:space:]]Emajor[[:space:]]-[[:space:]]61_(Vocals).wav filter=lfs diff=lfs merge=lfs -text
+audios/1_Tujhe[[:space:]]Sochta[[:space:]]Hu[[:space:]]-[[:space:]]Cm[[:space:]]-[[:space:]]81_(Vocals).wav filter=lfs diff=lfs merge=lfs -text
