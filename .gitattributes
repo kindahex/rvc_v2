@@ -34,3 +34,4 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 *.zst filter=lfs diff=lfs merge=lfs -text
 *tfevents* filter=lfs diff=lfs merge=lfs -text
 stftpitchshift filter=lfs diff=lfs merge=lfs -text
+audios/【NIGHT-DANCER-imase-Lời-Việt-Vietnamese-Ver.】ĐIỆU-NHẢY-TRONG-ĐÊM-Kare_2[[:space:]](Vocals)[[:space:]](MDX[[:space:]]v2[[:space:]]Voc[[:space:]]FT).mp3 filter=lfs diff=lfs merge=lfs -text
