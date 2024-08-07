@@ -34,3 +34,15 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 *.zst filter=lfs diff=lfs merge=lfs -text
 *tfevents* filter=lfs diff=lfs merge=lfs -text
 stftpitchshift filter=lfs diff=lfs merge=lfs -text
+sample01.mp3 filter=lfs diff=lfs merge=lfs -text
+sample02.mp3 filter=lfs diff=lfs merge=lfs -text
+sample05.mp3 filter=lfs diff=lfs merge=lfs -text
+sample06.mp3 filter=lfs diff=lfs merge=lfs -text
+sample08.mp3 filter=lfs diff=lfs merge=lfs -text
+sample10.mp3 filter=lfs diff=lfs merge=lfs -text
+sample12.mp3 filter=lfs diff=lfs merge=lfs -text
+sample13.mp3 filter=lfs diff=lfs merge=lfs -text
+sample14.mp3 filter=lfs diff=lfs merge=lfs -text
+sample15.mp3 filter=lfs diff=lfs merge=lfs -text
+sample16.mp3 filter=lfs diff=lfs merge=lfs -text
+sample17.mp3 filter=lfs diff=lfs merge=lfs -text
